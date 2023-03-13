@@ -10,5 +10,6 @@ package com.dayday.git;
 public class MySecondGit {
     public static void main(String[] args) {
         System.out.println("这是第二个");
+        System.out.println("master");
     }
 }
