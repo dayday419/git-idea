@@ -9,6 +9,8 @@ package com.dayday.git;
  */
 public class MyFirstGit {
     public static void main(String[] args) {
+        System.out.println("这是我的第一个git-idea!");
+        System.out.println("这是hot-fix");
         System.out.println("这是我的第一个git-idea");
         System.out.println("这是master");
     }
